@@ -1,0 +1,12 @@
+28.12.2021 22:22:21.776 - TestLogger - customhandlers - run - 38 - INFO - Timed File Handler rollover in '5858' seconds.
+28.12.2021 22:22:21.776 - TestLogger - __init__ - getLogger - 35 - INFO - Logger started. Write Logfile to: /Users/henrikschletter/PycharmProjects/CustomLogger/log/20211228_TestLogger.log
+28.12.2021 22:22:21.776 - TestLogger - test - <module> - 7 - INFO - Test 0
+28.12.2021 22:22:22.781 - TestLogger - test - <module> - 7 - INFO - Test 1
+28.12.2021 22:22:23.786 - TestLogger - test - <module> - 7 - INFO - Test 2
+28.12.2021 22:22:24.792 - TestLogger - test - <module> - 7 - INFO - Test 3
+28.12.2021 22:22:25.796 - TestLogger - test - <module> - 7 - INFO - Test 4
+28.12.2021 22:22:26.798 - TestLogger - test - <module> - 7 - INFO - Test 5
+28.12.2021 22:22:27.804 - TestLogger - test - <module> - 7 - INFO - Test 6
+28.12.2021 22:22:28.809 - TestLogger - test - <module> - 7 - INFO - Test 7
+28.12.2021 22:22:29.815 - TestLogger - test - <module> - 7 - INFO - Test 8
+28.12.2021 22:22:30.817 - TestLogger - test - <module> - 7 - INFO - Test 9
