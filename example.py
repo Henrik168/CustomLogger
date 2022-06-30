@@ -1,11 +1,13 @@
 import CustomLogger
+import example_module
 from time import sleep
 
-log = CustomLogger.getLogger(name="TestLogger")
+log = CustomLogger.getLogger()
 
 
 def main():
-    for i in range(10):
+    example_module.test()
+    for i in range(3):
         log.info(f"Test {i}")
         sleep(1)
 
